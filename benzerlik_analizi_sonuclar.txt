@@ -1,0 +1,75 @@
+En çok geçen 20 kelime:
+bir (Frekans: 4046)
+paşa (Frekans: 963)
+olarak (Frekans: 811)
+bey (Frekans: 794)
+olan (Frekans: 773)
+sonra (Frekans: 731)
+efendiler (Frekans: 690)
+bütün (Frekans: 592)
+kadar (Frekans: 592)
+millî (Frekans: 571)
+büyük (Frekans: 472)
+olduğu (Frekans: 448)
+kabul (Frekans: 427)
+karşı (Frekans: 419)
+millet (Frekans: 408)
+bulunan (Frekans: 373)
+söz (Frekans: 365)
+heyeti (Frekans: 325)
+üzere (Frekans: 313)
+önce (Frekans: 309)
+
+Her bir kelimenin en benzer 5 kelimesi:
+bir: ['bütün', 'millî', 'hiçbir', 'takdirde', 'pek']
+paşa: ['fevzi', 'ali', 'hazretleri', 'fuat', 'ferit']
+olarak: ['uygun', 'olduğunu', 'olduğu', 'bile', 'ben']
+bey: ['beye', 'paşanın', 'beyin', 'ankaraya', 'reşit']
+olan: ['bile', 'olduğunu', 'karşı', 'uygun', 'ilgili']
+sonra: ['benim', 'kendi', 'son', 'iki', 'yalnız']
+efendiler: ['bizim', 'üzerine', 'kendi', 'sonra', 'telgraf']
+bütün: ['milletin', 'karşı', 'millî', 'hiçbir', 'takdirde']
+kadar: ['olduğunu', 'önce', 'üzerinde', 'bile', 'olduğu']
+millî: ['karşı', 'milletin', 'bütün', 'olduğunu', 'içinde']
+büyük: ['meclisi', 'türkiye', 'meclisinin', 'mebusan', 'millet']
+olduğu: ['olduğunu', 'kadar', 'olarak', 'ilgili', 'uygun']
+kabul: ['şekilde', 'pek', 'olduğunu', 'karşı', 'millî']
+karşı: ['olduğunu', 'içinde', 'olan', 'bütün', 'millî']
+millet: ['türkiye', 'meclisi', 'mebusan', 'mebusanın', 'büyük']
+bulunan: ['ordu', 'üzerine', 'efendiler', 'bizim', 'batı']
+söz: ['olan', 'üzerinde', 'durum', 'karşı', 'yoktur']
+heyeti: ['kongre', 'adına', 'özel', 'cemiyeti', 'eski']
+üzere: ['benim', 'bunu', 'son', 'birlikte', 'ileri']
+önce: ['kadar', 'olduğunu', 'ortaya', 'bile', 'uygun']
+
+Seçili 5 farklı cümle ve en benzer 3 cümle:
+Seçili 1. cümle: vatan milletin kutsal varlıklarını kurtarmak korumak hususunda son sözü söyleyecektir
+En benzer 3 cümle:
+  - Derlemdeki 501. cümle (Benzerlik: 1.000000): vatan milletin kutsal varlıklarını kurtarmak korumak hususunda son sözü söyleyecektir
+  - Derlemdeki 3307. cümle (Benzerlik: 0.999956): sunmaktır asil görevi yerine getirerek bugün vatan milletin yüksek kişiliğinizden
+  - Derlemdeki 3958. cümle (Benzerlik: 0.999949): olan fiilen yürürlükte olan kural milletin genel eğilimlerini yüksek düzeyde temsil eden
+  - Derlemdeki 10766. cümle (Benzerlik: 0.999943): millî hükûmetin durum veyetkisini şekil niteliğini tespit ifade eden ilk kanundur meclis
+Seçili 2. cümle: nihayet efendiler ağustos içinde yerden bir takım temsilcilerin sivasa doğru yola çıktıkları
+En benzer 3 cümle:
+  - Derlemdeki 1001. cümle (Benzerlik: 1.000000): nihayet efendiler ağustos içinde yerden bir takım temsilcilerin sivasa doğru yola çıktıkları
+  - Derlemdeki 11588. cümle (Benzerlik: 0.999974): efendiler görüş ayrılıklarının sebepleri üzerinde biraz açıklamada bulunmak uygun olur bir
+  - Derlemdeki 9466. cümle (Benzerlik: 0.999974): efendiler bir komutanın esir olması mazur görülebilir zaman askerliğin görev
+  - Derlemdeki 8673. cümle (Benzerlik: 0.999971): başladı bir gün sonra tutuklanmakta olan ileri gelenler halkı dakışkırtarak konya içinde
+Seçili 3. cümle: kongrede konu üzerinde duruldu
+En benzer 3 cümle:
+  - Derlemdeki 1501. cümle (Benzerlik: 1.000000): kongrede konu üzerinde duruldu
+  - Derlemdeki 14355. cümle (Benzerlik: 0.999872): mart konu üzerinde durulmamıştır
+  - Derlemdeki 14767. cümle (Benzerlik: 0.999861): konu üzerinde fazla direnmesini önledim
+  - Derlemdeki 10579. cümle (Benzerlik: 0.999855): memleketin yüksek yararları ilgili önemli bir konu üzerinde sadrazampaşanın zâtıdevletleriyle
+Seçili 4. cümle: sözlerden anlasilacagi üzere rauf beyin görüsüyle gerek sivas kongresi heyetinin gerek
+En benzer 3 cümle:
+  - Derlemdeki 2001. cümle (Benzerlik: 1.000000): sözlerden anlasilacagi üzere rauf beyin görüsüyle gerek sivas kongresi heyetinin gerek
+  - Derlemdeki 14687. cümle (Benzerlik: 0.999948): sonra mayıs tarihli rauf bey imzalı talimat telgrafını açıklamak üzere kendisine
+  - Derlemdeki 14879. cümle (Benzerlik: 0.999938): rauf bey müsveddeyi beğenmemişismet paşaya başka bir telgraf yazmış yazdırmış
+  - Derlemdeki 15343. cümle (Benzerlik: 0.999936): rauf bey bence konuyu cumhuriyet kelimesi bakımından ele almak doğru değildir sözleriyle
+Seçili 5. cümle: işte telgraf suretinin bütün kolordularca istanbula çekilmesinin uygun olacağı düşünüldü
+En benzer 3 cümle:
+  - Derlemdeki 2501. cümle (Benzerlik: 1.000000): işte telgraf suretinin bütün kolordularca istanbula çekilmesinin uygun olacağı düşünüldü
+  - Derlemdeki 10982. cümle (Benzerlik: 0.999953): meclise iki teklifte bulundum birisi memleketin durumunu milletin gayesini istanbula açıkça
+  - Derlemdeki 13962. cümle (Benzerlik: 0.999952): yemenden istanbula gelmek takip ettiği yol yemenden istanbula gelen bütün asker
+  - Derlemdeki 8810. cümle (Benzerlik: 0.999950): bıraktım gerçekten düşman bütün cephe üzerinde taarruza geçmişti bizim birliklerimiz geri
